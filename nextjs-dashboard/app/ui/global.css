@@ -16,3 +16,12 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+/* @font-face {
+  font-family: lufga;
+  src: url(/fonts/LufgaRegular.ttf);
+}
+
+.lufga {
+  font-family: lufga;
+} */
